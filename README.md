@@ -2,7 +2,7 @@
 
 Workshop given during the Global Mixed Reality Bootcamp 15 december 2018
 
-Amsterdam schedule: (https://www.globalmrbootcamp.com/bootcamp/20093365-69e9-45f0-ad76-d2282ca1fbae)
+[The Netherlands - Amsterdam program & sessions](https://www.globalmrbootcamp.com/bootcamp/20093365-69e9-45f0-ad76-d2282ca1fbae)
 
 ## Preparations
 
