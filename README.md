@@ -1,4 +1,4 @@
-# Unicorns & Shaders; their magic reveiled
+# Unicorns & Shaders; their magic revealed
 
 Workshop given during the Global Mixed Reality Bootcamp 15 december 2018
 
