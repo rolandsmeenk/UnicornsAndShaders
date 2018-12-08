@@ -4,7 +4,7 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: rainbow_material
   m_Shader: {fileID: 4800000, guid: 9dd8cecefaa49fc4d83b593d2db92022, type: 3}
@@ -75,6 +75,6 @@ Material:
     - _Width: 0.111
     - _ZWrite: 1
     m_Colors:
-    - _Center: {r: -0.040900975, g: -1.3085, b: 4.848823, a: 0}
+    - _Center: {r: -0.040900975, g: -0.2515, b: 1.8908226, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
