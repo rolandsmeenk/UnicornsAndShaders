@@ -1,9 +1,9 @@
 # Unicorns & Shaders; their magic revealed
 
 Workshop/talk given at these events:
--Mixed Reality Developer Summit, 19 June 2019, London 
--Global Mixed Reality Bootcamp, 15 December 2018, Amsterdam
--Mixed Reality User Group meeting, 4 July 2018, Vianen (NL)
+  * Mixed Reality Developer Summit, 19 June 2019, London 
+  * Global Mixed Reality Bootcamp, 15 December 2018, Amsterdam
+  * Mixed Reality User Group meeting, 4 July 2018, Vianen (NL)
 
 ## Preparations
 
