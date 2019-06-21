@@ -1,8 +1,9 @@
 # Unicorns & Shaders; their magic revealed
 
-Workshop given during the Global Mixed Reality Bootcamp 15 december 2018
-
-[The Netherlands - Amsterdam program & sessions](https://www.globalmrbootcamp.com/bootcamp/20093365-69e9-45f0-ad76-d2282ca1fbae)
+Workshop/talk given at these events:
+-Mixed Reality Developer Summit, 19 June 2019, London 
+-Global Mixed Reality Bootcamp, 15 December 2018, Amsterdam
+-Mixed Reality User Group meeting, 4 July 2018, Vianen (NL)
 
 ## Preparations
 
